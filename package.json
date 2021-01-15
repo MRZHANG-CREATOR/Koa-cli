@@ -1,0 +1,14 @@
+{
+  "name": "koa-serverbasic-cli",
+  "version": "1.0.0",
+  "description": "koa-serverbasic-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangpipi",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
